@@ -1,0 +1,3 @@
+git add <file name>
+git commit <commit message>
+git push <remote name> <branch name>
